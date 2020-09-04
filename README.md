@@ -1,5 +1,4 @@
 ### Hello everyone! 👋 I'm Riccardo Montagnin
-
 I'm a mobile and backend developer based in Italy 🇮🇹 
 
 I've been an Android developer for 3 years before moving into the blockchain world where I am currently ⛓️
@@ -13,6 +12,7 @@ If you by any chance want to support me here are my links:
 - [Ko-fi](https://ko-fi.com/riccardomontagnin)
 - [PayPal](https://paypal.me/riccardomontagnin)
 
+#### About me 
 - 😄 My pronouns: He/His
 - 🔭 I’m currently working on [Desmos](https://github.com/desmos-labs/desmos), a protocol to build decentralized social networks
 - 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue)
