@@ -8,9 +8,14 @@ I'm passionate about teaching 🧑‍🏫 other people what the blockchain is an
 
 When I'm not coding you can find me either sleeping 😴, in the gym 💪, in the kitchen 🍳 or playing some videogames 🎮
 
+If you by any chance want to support me here are my links: 
+
+- [Ko-fi](https://ko-fi.com/riccardomontagnin)
+- [PayPal](https://paypal.me/riccardomontagnin)
+
 - 😄 My pronouns: He/His
-- 🔭 I’m currently working on [Desmos](https://github.com/desmos-labs/desmos), protocol to build decentralized social networks
+- 🔭 I’m currently working on [Desmos](https://github.com/desmos-labs/desmos), a protocol to build decentralized social networks
 - 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue)
 - 💬 Ask me about: blockchain
-- 📫 How to reach me: [@ricmontagnin](https://twitter.com/ricmontagnin)
+- 📫 How to reach me: [Twitter @ricmontagnin](https://twitter.com/ricmontagnin)
 - ⚡ Fun fact: I've started sleeping 6 hours/night to get more time to code during the day
