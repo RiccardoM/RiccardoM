@@ -13,9 +13,11 @@ If you by any chance want to support me here are my links:
 - [PayPal](https://paypal.me/riccardomontagnin)
 
 #### About me 
-- 😄 My pronouns: He/His
-- 🔭 I’m currently working on [Desmos](https://github.com/desmos-labs/desmos), a protocol to build decentralized social networks
-- 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue)
-- 💬 Ask me about: blockchain
-- 📫 How to reach me: [Twitter @ricmontagnin](https://twitter.com/ricmontagnin)
-- ⚡ Fun fact: I've started sleeping 6 hours/night to get more time to code during the day
+<ul style="list-style-type: none">
+  <li> 😄 My pronouns: He/His </li>
+  <li> 🔭 I’m currently working on [Desmos](https://github.com/desmos-labs/desmos), a protocol to build decentralized social networks </li>
+  <li> 🌱 I’m currently learning [Vue](https://github.com/vuejs/vue) </li>
+  <li> 💬 Ask me about: blockchain </li>
+  <li> 📫 How to reach me: [Twitter @ricmontagnin](https://twitter.com/ricmontagnin) </li>
+  <li> ⚡ Fun fact: I've started sleeping 6 hours/night to get more time to code during the day </li>
+</ul>
